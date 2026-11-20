@@ -1,0 +1,6 @@
+--pycache--/
+*.py[cod]
+.venv/
+venv/
+.Ds_Store
+.ipynb_checkpoints/
